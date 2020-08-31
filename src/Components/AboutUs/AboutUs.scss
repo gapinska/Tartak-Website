@@ -1,0 +1,168 @@
+.branch {
+  width: 93%;
+  padding: 30px 20px;
+}
+
+.slogan {
+  position: relative;
+  font-size: 20px;
+  font-weight: lighter;
+  line-height: 1.47;
+  letter-spacing: 1px;
+  color: #1d1d1d;
+  font-family: Montserrat, sans-serif, Helvetica, "Helvetica Neue", sans-serif;
+  text-align: center;
+  margin-top: 20px;
+
+  span {
+    font-weight: bold;
+  }
+}
+
+.text-p {
+  font-size: 14px;
+  font-weight: 400;
+  color: #1d1d1d;
+  text-transform: none;
+  line-height: 1.48;
+  letter-spacing: 1px;
+}
+
+.text {
+  padding-top: 20px;
+}
+
+.about-us-text-1 {
+  text-align: center;
+  padding: 0 20px 30px;
+}
+
+.about-us-brand-name {
+  position: relative;
+  font-size: 20px;
+  font-style: italic;
+
+  &:after {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    bottom: 8px;
+    width: 118px;
+    height: 2px;
+  }
+
+  span {
+    font-style: italic;
+  }
+}
+
+.about-us-main-content .title {
+  color: #407512;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.27;
+  letter-spacing: 0.55px;
+  margin-bottom: 3px;
+}
+
+@media screen and (min-width: 1010px) {
+  .slogan {
+    font-size: 36px;
+    margin-top: 30px;
+  }
+
+  .branch {
+    width: 72%;
+    margin: 0 auto;
+  }
+
+  .about-us-brand-name {
+    font-size: 28px;
+  }
+
+  .about-us-main-content .title {
+    font-size: 24px;
+  }
+
+  .text-p {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 1270px) {
+  .slogan {
+    height: 265px;
+    font-size: 38px;
+    font-weight: lighter;
+    line-height: 1.46;
+    letter-spacing: 2.45px;
+    margin: 67px auto 67px 91px;
+    text-align: left;
+  }
+
+  .branch-container {
+    position: relative;
+    top: -157px;
+    left: -35px;
+
+    img {
+      width: 87%;
+      height: auto;
+      display: block;
+      animation: wind 10s infinite;
+    }
+  }
+
+  @keyframes wind {
+    33% {
+      transform: rotate(2deg);
+    }
+
+    66% {
+      transform: rotate(-2deg);
+    }
+  }
+
+  .about-us-main-content {
+    display: flex;
+  }
+
+  .about-us-text-1 {
+    width: 75%;
+    left: -11%;
+    text-align: left;
+    margin-top: -206px;
+  }
+
+  .text-p {
+    width: initial;
+  }
+
+  .about-us-brand-name:after {
+    margin: 0;
+    height: 4px;
+    width: 86px;
+  }
+}
+
+@media screen and (min-width: 1630px) {
+  .slogan {
+    height: 165px;
+    font-size: 55px;
+    font-weight: lighter;
+    line-height: 1.47;
+    letter-spacing: 2.45px;
+    margin: 67px auto 67px 238px;
+  }
+
+  .branch-container {
+    top: -57px;
+    left: 27px;
+  }
+
+  .about-us-text-1 {
+    margin-top: -38px;
+  }
+}
