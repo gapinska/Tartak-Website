@@ -11,8 +11,8 @@ import Burger from "./img/burger-4.png"
 import MenuClose from "./img/menu-close.png"
 import Home from "./Components/Home/Home"
 import AboutUs from "./Components/AboutUs/AboutUs"
+import Offer from "./Components/Offer/Offer"
 
-const Products = () => <h1>Produkty</h1>
 const Contact = () => <h1>Kontakt</h1>
 
 class App extends Component {
@@ -88,7 +88,7 @@ class App extends Component {
               <Switch>
                 <Route path="/" exact component={Home} />
                 <Route path="/o-nas" component={AboutUs} />
-                <Route path="/produkty" component={Products} />
+                <Route path="/produkty" component={Offer} />
                 <Route path="/kontakt" component={Contact} />
               </Switch>
             </div>
