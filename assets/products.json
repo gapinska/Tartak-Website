@@ -1,0 +1,278 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "category": "all",
+      "name": "wszystkie",
+      "productImg": "ho-skinny-main.jpg",
+      "productImg1": "ho-skinny-1.jpg",
+      "productImg2": "ho-skinny-2-closeUp.jpg",
+      "productImg-mobile": "skinny-mobile.jpg",
+      "text": {
+        "text-1": "mid-rise",
+        "text-2": "slim",
+        "text-3": "skinny"
+      }
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "name": "tarcica stolarska",
+      "productImg": "slouchy-main.jpg",
+      "productImg1": "slouchy-1.jpg",
+      "productImg2": "slouchy-2.jpg",
+      "productImg-mobile": "slouchy-mobile.jpg",
+      "text": {
+        "text-1": "high-rise",
+        "text-2": "tappered",
+        "text-3": "very loose"
+      }
+    },
+    {
+      "id": 3,
+      "category": 2,
+      "name": "tarcica konstrukcyjna",
+      "productImg": "highwaist-all-main.jpg",
+      "productImg1": "highwaist-1.jpg",
+      "productImg2": "highwaist-2.jpg",
+      "productImg-mobile": "highwaist-mobile.jpg",
+      "text": {
+        "text-1": "high-rise",
+        "text-2": "slim",
+        "text-3": "skinny"
+      }
+    },
+    {
+      "id": 4,
+      "category": 3,
+      "name": "tarcica strugana",
+      "productImg": "ho-skinny-main.jpg",
+      "productImg1": "ho-skinny-1.jpg",
+      "productImg2": "ho-skinny-2-closeUp.jpg",
+      "productImg-mobile": "skinny-mobile.jpg",
+      "text": {
+        "text-1": "mid-rise",
+        "text-2": "slim",
+        "text-3": "skinny"
+      }
+    },
+    {
+      "id": 5,
+      "category": 4,
+      "name": "drewno do wnętrz",
+      "productImg": "slouchy-main.jpg",
+      "productImg1": "slouchy-1.jpg",
+      "productImg2": "slouchy-2.jpg",
+      "productImg-mobile": "slouchy-mobile.jpg",
+      "text": {
+        "text-1": "high-rise",
+        "text-2": "tappered",
+        "text-3": "very loose"
+      }
+    },
+    {
+      "id": 6,
+      "category": 5,
+      "name": "drewno energetyczne",
+      "productImg": "highwaist-all-main.jpg",
+      "productImg1": "highwaist-1.jpg",
+      "productImg2": "highwaist-2.jpg",
+      "productImg-mobile": "highwaist-mobile.jpg",
+      "text": {
+        "text-1": "high-rise",
+        "text-2": "slim",
+        "text-3": "skinny"
+      }
+    },
+    {
+      "id": 7,
+      "category": 6,
+      "name": "usługi",
+      "productImg": "highwaist-all-main.jpg",
+      "productImg1": "highwaist-1.jpg",
+      "productImg2": "highwaist-2.jpg",
+      "productImg-mobile": "highwaist-mobile.jpg",
+      "text": {
+        "text-1": "high-rise",
+        "text-2": "slim",
+        "text-3": "skinny"
+      }
+    }
+  ],
+  "category-products": [
+    {
+      "id": 8,
+      "category": "1",
+      "name": "tarcica stolarska",
+      "feature": "nieobrzynana w wymiarach o grubości 25-65mm"
+    },
+    {
+      "id": 9,
+      "category": "1",
+      "name": "lamele sosnowe",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 10,
+      "category": "1",
+      "name": "fryzy sosnowe",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 11,
+      "category": "1",
+      "name": "wyrzynka sosnowa",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 12,
+      "category": "2",
+      "name": "krawędziaki",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 13,
+      "category": "2",
+      "name": "deska dachowa",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 14,
+      "category": "2",
+      "name": "deska szalunkowa",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 15,
+      "category": "2",
+      "name": "łaty",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 16,
+      "category": "2",
+      "name": "kontrłaty",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 17,
+      "category": "2",
+      "name": "bale",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 18,
+      "category": "3",
+      "name": "deska dachowa strugana",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 19,
+      "category": "3",
+      "name": "deska okapowa",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 20,
+      "category": "3",
+      "name": "deska elewacyjna",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 21,
+      "category": "3",
+      "name": "deska tarasowa",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 22,
+      "category": "4",
+      "name": "deska na ścianę / boazeria",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 23,
+      "category": "4",
+      "name": "przepierzenia drewniane",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 24,
+      "category": "4",
+      "name": "deska podłogowa",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 25,
+      "category": "4",
+      "name": "stropopodłoga",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 26,
+      "category": "5",
+      "name": "zrzyna",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 27,
+      "category": "5",
+      "name": "trocina",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 28,
+      "category": "5",
+      "name": "obladry",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 29,
+      "category": "5",
+      "name": "drewno kawałkowe",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 30,
+      "category": "5",
+      "name": "kora",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 31,
+      "category": "6",
+      "name": "fachowe doradztwo",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 32,
+      "category": "6",
+      "name": "przetarcie drewna",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 33,
+      "category": "6",
+      "name": "impregnacja",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 34,
+      "category": "6",
+      "name": "suszenie",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 35,
+      "category": "6",
+      "name": "struganie",
+      "feature": "feature do uzupełnienia"
+    },
+    {
+      "id": 36,
+      "category": "6",
+      "name": "transport",
+      "feature": "feature do uzupełnienia"
+    }
+  ]
+}
