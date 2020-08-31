@@ -1,0 +1,95 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "all",
+      "productImg": "ho-skinny-main.jpg",
+      "productImg1": "ho-skinny-1.jpg",
+      "productImg2": "ho-skinny-2-closeUp.jpg",
+      "productImg-mobile": "skinny-mobile.jpg",
+      "text": {
+        "text-1": "mid-rise",
+        "text-2": "slim",
+        "text-3": "skinny"
+      }
+    },
+    {
+      "id": 2,
+      "name": "slouchy",
+      "productImg": "slouchy-main.jpg",
+      "productImg1": "slouchy-1.jpg",
+      "productImg2": "slouchy-2.jpg",
+      "productImg-mobile": "slouchy-mobile.jpg",
+      "text": {
+        "text-1": "high-rise",
+        "text-2": "tappered",
+        "text-3": "very loose"
+      }
+    },
+    {
+      "id": 3,
+      "name": "highwaist",
+      "productImg": "highwaist-all-main.jpg",
+      "productImg1": "highwaist-1.jpg",
+      "productImg2": "highwaist-2.jpg",
+      "productImg-mobile": "highwaist-mobile.jpg",
+      "text": {
+        "text-1": "high-rise",
+        "text-2": "slim",
+        "text-3": "skinny"
+      }
+    },
+    {
+      "id": 4,
+      "name": "fghj",
+      "productImg": "ho-skinny-main.jpg",
+      "productImg1": "ho-skinny-1.jpg",
+      "productImg2": "ho-skinny-2-closeUp.jpg",
+      "productImg-mobile": "skinny-mobile.jpg",
+      "text": {
+        "text-1": "mid-rise",
+        "text-2": "slim",
+        "text-3": "skinny"
+      }
+    },
+    {
+      "id": 5,
+      "name": "jkl",
+      "productImg": "slouchy-main.jpg",
+      "productImg1": "slouchy-1.jpg",
+      "productImg2": "slouchy-2.jpg",
+      "productImg-mobile": "slouchy-mobile.jpg",
+      "text": {
+        "text-1": "high-rise",
+        "text-2": "tappered",
+        "text-3": "very loose"
+      }
+    },
+    {
+      "id": 6,
+      "name": "hjkl",
+      "productImg": "highwaist-all-main.jpg",
+      "productImg1": "highwaist-1.jpg",
+      "productImg2": "highwaist-2.jpg",
+      "productImg-mobile": "highwaist-mobile.jpg",
+      "text": {
+        "text-1": "high-rise",
+        "text-2": "slim",
+        "text-3": "skinny"
+      }
+    },
+    {
+      "id": 7,
+      "name": "hjyut",
+      "productImg": "highwaist-all-main.jpg",
+      "productImg1": "highwaist-1.jpg",
+      "productImg2": "highwaist-2.jpg",
+      "productImg-mobile": "highwaist-mobile.jpg",
+      "text": {
+        "text-1": "high-rise",
+        "text-2": "slim",
+        "text-3": "skinny"
+      }
+    }
+  ]
+}
