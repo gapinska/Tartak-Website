@@ -4,6 +4,10 @@
   overflow: scroll;
   box-sizing: border-box;
 
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
   .product-container {
     cursor: pointer;
     min-width: 100px;
@@ -19,7 +23,7 @@
 
   header {
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 12px;
     text-align: center;
     letter-spacing: 0.26px;
     margin: 10px 0;
@@ -28,7 +32,14 @@
 }
 
 @media screen and (min-width: 1270px) {
-  .product-container img {
-    width: 90%;
+  .product-container {
+    header {
+      font-size: 14px;
+    }
+
+    img {
+      width: 90%;
+      border-radius: initial;
+    }
   }
 }
