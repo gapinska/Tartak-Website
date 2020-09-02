@@ -1,9 +1,12 @@
 import React from "react"
 
 const ProductItem = (props) => {
-  const path = "./../../img/products"
   return (
-    <div className="product-container">
+    <div
+      className="product-container"
+      category={props.category}
+      onClick={props.onClick}
+    >
       <img src={"products/" + props.productImg} alt="" />
       <header>{props.name}</header>
     </div>
